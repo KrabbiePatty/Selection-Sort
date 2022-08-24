@@ -1,0 +1,13 @@
+html, body{
+    text-align:center;
+}
+p {text-align: left;}
+
+body {
+   
+	height: 200px;
+	background-color: red; /* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, #89CFF0, #50C878);
+   
+}
+	  
