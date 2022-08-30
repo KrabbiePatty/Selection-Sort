@@ -1,5 +1,5 @@
 html,body{
-    overflow:hidden;
+    
     text-align:left
 }
 p{
@@ -10,7 +10,7 @@ body{
     text-align:justify;
     font-family:trebuchet ms,Arial,Helvetica,sans-serif;
     font-size:13px;
-    
+    background-color:#252f33;
    
 }
 *
@@ -32,7 +32,7 @@ body{
     display:table;
     height:100%;
     position:relative;
-    overflow:hidden;
+    overflow:scroll;
     background:#252f33 ;
     width:100vw;
 }
@@ -83,7 +83,7 @@ body{
     z-index:1;
 }
 .rightLinks{
-    width:102px;
+    width:150px;
     font-size:15px;
     font-weight:700;
     line-height:21px;
